@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 BEGIN:VEVENT
-DTSTART:20230530T130000Z
-DTEND:20230530T140000Z
+DTSTART;TZID=America/Mexico_City:20230530T130000
+DTEND;TZID=America/Mexico_City:20230530T143000
 UID:20230530T130000Z-1234@github.com
 DTSTAMP:20230530T130000Z
-LOCATION:Online
-DESCRIPTION:Taller introductorio a control de versiones con Git y GitHub, impartido por Rody (@gonzalpi)
-URL;VALUE=URI:https://github.com/gonzalpi
+LOCATION:https://itesm.zoom.us/j/82198289488?pwd=YWR1dDkzQzlla1JVVFZKbnkwY1AwZz09
+DESCRIPTION:Taller introductorio a control de versiones con Git y GitHub, impartido por Rody (@gonzalpi en GitHub)
+URL;VALUE=URI:https://itesm.zoom.us/j/82198289488?pwd=YWR1dDkzQzlla1JVVFZKbnkwY1AwZz09
 SUMMARY:Introducción a Git y GitHub
 END:VEVENT
 END:VCALENDAR
