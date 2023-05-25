@@ -1,2 +1,3 @@
-# website
-Official website for TECoding
+# Official website for TECoding
+
+A simple html project
